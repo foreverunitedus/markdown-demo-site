@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nikola Tesla
+ Nikola Tesla
 
 Nikola Tesla was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.  
 
@@ -14,7 +14,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 
 ---
 
-## Table of contents
+ Table of contents
 - [At a glance](#at-a-glance)
 - [New York laboratories](#new-york-laboratories)
   - [Tesla coil](#tesla-coil)
